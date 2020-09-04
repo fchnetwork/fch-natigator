@@ -91,7 +91,7 @@
     "jest": "22.4.3",
     "jest-preset-angular": "5.2.2",
     "less-loader": "4.0.5",
-    "node-sass": "4.9.0",
+    "node-sass": "4.13.1",
     "postcss-import": "11.0.0",
     "postcss-loader": "2.1.5",
     "postcss-url": "7.1.2",
